@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Log:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Log_jar</output-path>
+    <root id="archive" name="Log.jar">
+      <element id="module-output" name="Log" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/מצגות הקורס + מדריכים רלבנטים-20210219/כלי עזר וספריות צד שלישי/GSON/gson-2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

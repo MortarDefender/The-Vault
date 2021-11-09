@@ -1,0 +1,7 @@
+	<string name="menu_payment">Payment</string>
+   	<string name="menu_all_accounts">All accounts</string>
+   	<string name="menu_work_accounts">Work accounts</string>
+   	<string name="menu_secure_notes">Secure Notes</string>
+  	<string name="menu_security_keys">Security Keys</string>
+  	<string name="menu_school_accounts">School Accounts</string>
+   	<string name="menu_vacation_accounts">Vacation Accounts</string>

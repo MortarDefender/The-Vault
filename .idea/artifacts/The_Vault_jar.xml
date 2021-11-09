@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="The Vault:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/The_Vault_jar</output-path>
+    <root id="archive" name="The Vault.jar">
+      <element id="module-output" name="The Vault" />
+      <element id="module-output" name="Cryptography" />
+      <element id="module-output" name="DTO" />
+      <element id="module-output" name="GUI" />
+      <element id="module-output" name="Engine" />
+      <element id="module-output" name="Log" />
+      <element id="module-output" name="Ui" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/מצגות הקורס + מדריכים רלבנטים-20210219/כלי עזר וספריות צד שלישי/GSON/gson-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/מצגות הקורס + מדריכים רלבנטים-20210219/כלי עזר וספריות צד שלישי/charm-glisten-4.4.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
