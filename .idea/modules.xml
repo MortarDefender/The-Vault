@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Log/Log.iml" filepath="$PROJECT_DIR$/Log/Log.iml" />
       <module fileurl="file://$PROJECT_DIR$/The Vault.iml" filepath="$PROJECT_DIR$/The Vault.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ui/Ui.iml" filepath="$PROJECT_DIR$/Ui/Ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/the_vault_web/the_vault_web.iml" filepath="$PROJECT_DIR$/the_vault_web/the_vault_web.iml" />
     </modules>
   </component>
 </project>
