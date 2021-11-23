@@ -1,11 +1,24 @@
 package thevaultweb.the_vault_web;
 
-import Objects.interfaces.Safe;
 import com.Vault;
+import Objects.interfaces.Safe;
 
+import javax.servlet.ServletContextEvent;
+import javax.servlet.ServletContextListener;
+import javax.servlet.annotation.WebListener;
 
-public class ContextWebClass {
+@WebListener
+public class ContextWebClass implements ServletContextListener {
 
     public static Safe safe = new Vault();
 
+    @Override
+    public void contextInitialized(ServletContextEvent sce) {
+        System.out.println("servlet start");
+    }
+
+    @Override
+    public void contextDestroyed(ServletContextEvent sce) {
+        System.out.println("servlet end");
+    }
 }
