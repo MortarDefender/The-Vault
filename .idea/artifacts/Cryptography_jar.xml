@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="Cryptography:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Cryptography_jar</output-path>
-    <root id="archive" name="Cryptography.jar">
-      <element id="module-output" name="Cryptography" />
-    </root>
-  </artifact>
-</component>
