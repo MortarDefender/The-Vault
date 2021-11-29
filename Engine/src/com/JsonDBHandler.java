@@ -1,9 +1,9 @@
 package com;
 
 import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import com.interfaces.DBHandler;
 import com.interfaces.UserInter;
-import com.google.gson.reflect.TypeToken;
 
 import java.io.*;
 import java.util.Map;
