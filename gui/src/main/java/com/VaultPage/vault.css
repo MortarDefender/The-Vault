@@ -1,0 +1,21 @@
+
+.root {
+    /*-fx-background-image:  url("smoke.jpg");*/
+    -fx-background-color: linear-gradient(#0F2027, #203A43, #2C5364);
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 17px;
+    -fx-background-radius: 20px;
+    -fx-background-color: linear-gradient(#141E30, #243B55);
+}
+
+.scroll-pane > .viewport {
+    -fx-background-color: transparent;
+}
+
+.scroll-pane {
+    -fx-background-color: transparent;
+}
